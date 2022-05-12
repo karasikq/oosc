@@ -1,0 +1,4 @@
+# qmldir
+singleton ColorScheme ColorScheme.qml
+singleton FlowHint FlowHint.qml
+singleton ScaleControl ScaleControl.qml
