@@ -1,0 +1,51 @@
+{
+  "theme": {
+    "Window": {
+      "background": "#1B1C1E"
+    },
+    "TabButton" : {
+      "active": "#98c379",
+      "unactive": "#993939"
+    },
+    "ADSRDrawer": {
+      "lineColor": "#de5d68",
+      "backgroundColor": "#55de5d68"
+    },
+    "ArrayDrawer": {
+      "lineColor": "#de5d68",
+      "backgroundColor": "#55de5d68",
+      "centerLineColor": "#302c2c"
+    },
+    "DefaultBlock": {
+      "background": "#232326",
+      "borderColor": "#1f1d21"
+    },
+    "text": {
+      "mainColor": "#FFF",
+      "secondaryColor": "#000"
+    },
+    "Knob": {
+      "lineColor": "#dbb671",
+      "gradientStart": "#FFF",
+      "gradientEnd": "#000",
+      "pinColor": "#FFF"
+    },
+    "Dropdown": {
+      "background": "#1d1d1d",
+      "borderColor": "#2b2a2a",
+      "itemColor": "#232326",
+      "highlightedColor": "#2b2a2a"
+    },
+    "VolumeIndicator": {
+      "min": "#2b6f77",
+      "max": "#98c379",
+      "background": "#302c2c"
+    },
+    "Keyboard": {
+      "keyColor": "#abb2bf",
+      "activeKeyColor": "#98c379",
+      "sharpColor": "#3b3f4c",
+      "activeSharpColor": "#e86671" 
+    }
+  }
+}
