@@ -21,6 +21,7 @@
 #include "src/Generator/Note.h"
 #include "src/Utils/AudioChannel.h"
 #include <QObject>
+#include <memory>
 
 /// ADataReceiverSlots class
 /// Contains basic slots for receiving audio data

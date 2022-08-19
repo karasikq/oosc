@@ -51,7 +51,7 @@ c++ IDE, that support CMake and build.
 
 ## 🔩 Requirements
 
-- Cxx11 +
+- Compiler that support C++17
 - Qt 5.15 +
 - Portaudio API 2.0
 - CMake 3.14 + 

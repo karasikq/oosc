@@ -1,0 +1,377 @@
+[
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/oosc_autogen/mocs_compilation.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/mocs_compilation.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/ADSR/ADSREnvelope.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/ADSR/ADSREnvelope.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/ADSR/ADSREnvelope.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/ApplicationConfig.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/ApplicationConfig.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/ApplicationConfig.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Chorus.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Chorus.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Chorus.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Compressor.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Compressor.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Compressor.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Delay.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Delay.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Delay.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/ParametricEQ.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/ParametricEQ.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/ParametricEQ.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Distortion.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Distortion.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Distortion.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Vibrato.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Vibrato.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Vibrato.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Reverb.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Reverb.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Reverb.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Flanger.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Flanger.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Flanger.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Effects/Phaser.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Phaser.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Effects/Phaser.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/AGenerator.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/AGenerator.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/AGenerator.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/Generator.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Generator.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Generator.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/SubGenerator.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/SubGenerator.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/SubGenerator.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/Note.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Note.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Note.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/WaveTable.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/WaveTable.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/WaveTable.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/GeneratorsThreadPool.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/GeneratorsThreadPool.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/GeneratorsThreadPool.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/MIDI/MidiPlayback.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/MIDI/MidiPlayback.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/MIDI/MidiPlayback.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/MixerOutput.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/MixerOutput.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/MixerOutput.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/MixerQmlWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/MixerQmlWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/MixerQmlWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/Synthesizer.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Synthesizer.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/Synthesizer.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Generator/BasicSynthesizer.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Generator/BasicSynthesizer.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Generator/BasicSynthesizer.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Parametrs/ChangeableParameter.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Parametrs/ChangeableParameter.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Parametrs/ChangeableParameter.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Parametrs/AValueSender.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Parametrs/AValueSender.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Parametrs/AValueSender.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/ADataReceiver.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ADataReceiver.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ADataReceiver.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/ADSRDrawer.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ADSRDrawer.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ADSRDrawer.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/ArrayDrawer.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ArrayDrawer.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ArrayDrawer.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/ArrayGradientDrawer.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ArrayGradientDrawer.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/ArrayGradientDrawer.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/LinearIndicator.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/LinearIndicator.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/LinearIndicator.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Charts/PolarVectorscope.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/PolarVectorscope.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Charts/PolarVectorscope.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Controls/Knob.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/Knob.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/Knob.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Controls/AKnob.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/AKnob.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/AKnob.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Controls/TextKnob.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/TextKnob.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/TextKnob.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Controls/KeyboardControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/KeyboardControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Controls/KeyboardControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Midi/MidiPlaybackUI.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Midi/MidiPlaybackUI.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Midi/MidiPlaybackUI.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/AGeneratorControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/AGeneratorControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/AGeneratorControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/GeneratorControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/GeneratorControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/GeneratorControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/SubGeneratorControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SubGeneratorControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SubGeneratorControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/GeneratorKnobsControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/GeneratorKnobsControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/GeneratorKnobsControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/SubGeneratorKnobs.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SubGeneratorKnobs.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SubGeneratorKnobs.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/SynthesizerControl.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SynthesizerControl.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/SynthesizerControl.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/LfoController.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/LfoController.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/LfoController.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/SynthesizerControls/ADSRController.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/ADSRController.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/SynthesizerControls/ADSRController.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/EffectUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/EffectUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/EffectUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/DelayUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/DelayUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/DelayUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/ReverbUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/ReverbUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/ReverbUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/ChorusUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/ChorusUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/ChorusUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/PhaserUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/PhaserUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/PhaserUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/CompressorUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/CompressorUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/CompressorUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/DistortionUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/DistortionUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/DistortionUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/EqUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/EqUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/EqUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/FlangerUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/FlangerUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/FlangerUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/UI/Effects/VibratoUIWrapper.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/VibratoUIWrapper.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/UI/Effects/VibratoUIWrapper.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/ApplicationConfigQML.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/ApplicationConfigQML.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/ApplicationConfigQML.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/AudioChannel.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/AudioChannel.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/AudioChannel.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/BezierCurve.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/BezierCurve.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/BezierCurve.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/CubicBezierCurve.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/CubicBezierCurve.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/CubicBezierCurve.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/Filters/AllPassFilter.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/Filters/AllPassFilter.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/Filters/AllPassFilter.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/Filters/CombFilter.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/Filters/CombFilter.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/Filters/CombFilter.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/IIR/IIR.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/IIR/IIR.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/IIR/IIR.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/IIR/IIRCoefficients.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/IIR/IIRCoefficients.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/IIR/IIRCoefficients.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/LFO.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/LFO.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/LFO.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/QML/FileIO.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/QML/FileIO.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/QML/FileIO.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/WaveShape.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/WaveShape.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/WaveShape.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/Utils/ITimeReceiver.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/Utils/ITimeReceiver.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/Utils/ITimeReceiver.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/src/AudioSettings.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/src/AudioSettings.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/src/AudioSettings.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/Binasc.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/Binasc.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/Binasc.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/MidiEvent.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiEvent.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiEvent.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/MidiEventList.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiEventList.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiEventList.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/MidiFile.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiFile.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiFile.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/MidiMessage.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiMessage.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/MidiMessage.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/ThirdParty/midifile/src/Options.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/Options.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/ThirdParty/midifile/src/Options.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/main.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/main.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/main.cpp"
+},
+{
+  "directory": "/home/cbate/Documents/Projects/Cpp/oosc/Debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QML_RELEASE -DQT_QUICK_LIB -I/home/cbate/Documents/Projects/Cpp/oosc/Debug -I/home/cbate/Documents/Projects/Cpp/oosc -I/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtGui -Wall -Wextra -g -fPIC -std=gnu++17 -o CMakeFiles/oosc.dir/oosc_autogen/EWIEGA46WW/qrc_qml.cpp.o -c /home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/EWIEGA46WW/qrc_qml.cpp",
+  "file": "/home/cbate/Documents/Projects/Cpp/oosc/Debug/oosc_autogen/EWIEGA46WW/qrc_qml.cpp"
+}
+]

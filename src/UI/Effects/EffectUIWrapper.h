@@ -20,7 +20,6 @@
 #include "src/Utils/WaveShape.h"
 #include <QQuickItem>
 #include <map>
-#include <qtmetamacros.h>
 
 /// Macro that create changeable parameter for effect property
 #define registerChangeableParameter(type, name, Name)                          \

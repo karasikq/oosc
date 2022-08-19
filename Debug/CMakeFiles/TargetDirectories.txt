@@ -1,0 +1,4 @@
+/home/cbate/Documents/Projects/Cpp/oosc/Debug/CMakeFiles/oosc.dir
+/home/cbate/Documents/Projects/Cpp/oosc/Debug/CMakeFiles/edit_cache.dir
+/home/cbate/Documents/Projects/Cpp/oosc/Debug/CMakeFiles/rebuild_cache.dir
+/home/cbate/Documents/Projects/Cpp/oosc/Debug/CMakeFiles/oosc_autogen.dir

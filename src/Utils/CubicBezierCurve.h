@@ -18,6 +18,7 @@
 
 #include <QPointF>
 #include <math.h>
+#include <array>
 
 struct CubicBezierCurve {
 public:

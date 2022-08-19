@@ -81,6 +81,9 @@ int main(int argc, char *argv[]) {
   qRegisterMetaType<KnobInterpolation::KnobInterpolationMethod>(
       "KnobInterpolationMethod");
   qRegisterMetaType<KnobDirection::KnobDirectionMethod>("KnobDirectionMethod");
+  qRegisterMetaType<std::vector<float>>("std::vector<float>");
+  qRegisterMetaType<std::vector<float>::const_iterator>("std::vector<float>::const_iterator");
+  qRegisterMetaType<ADSRDrawer *>("ADSRDrawer *");
 
   const QUrl url(QStringLiteral("qrc:/main.qml"));
   QObject::connect(
